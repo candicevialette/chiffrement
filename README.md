@@ -28,7 +28,7 @@ Cet atelier est conçu pour vous aider à développer des compétences dans la s
 
 -**Signer numériquement vos messages pour prouver leur authenticité.**
 
-- ** Gérer les clés publiques et privées pour des échanges sécurisés.**
+- **Gérer les clés publiques et privées pour des échanges sécurisés.**
 
 ---
 
@@ -50,7 +50,7 @@ Cet atelier est conçu pour vous aider à développer des compétences dans la s
 
 -**Signatures numériques** pour valider l'origine des messages.
 
--** Interopérabilité avec d'autres clients OpenPGP** pour des échanges flexibles.
+-**Interopérabilité avec d'autres clients OpenPGP** pour des échanges flexibles.
 
 ---
 
@@ -109,25 +109,23 @@ Consultez le dossier Documents/ pour des guides d'analyse détaillés sur l'util
 
 1. Configuration initiale :
 
-2. Paramétrez un compte e-mail sur Thunderbird.
+  Paramétrez un compte e-mail sur Thunderbird.
+  Accédez aux paramètres de chiffrement pour activer OpenPGP.
 
-3. Accédez aux paramètres de chiffrement pour activer OpenPGP.
+ 2. Génération des clés :
+    
+  Créez une paire de clés publique/privée dans les paramètres du compte.
+  Exportez votre clé privée pour une sauvegarde.
 
-4. Génération des clés :
+3. Partage de clés publiques :
 
-Créez une paire de clés publique/privée dans les paramètres du compte.
-
-Exportez votre clé privée pour une sauvegarde.
-
-Partage de clés publiques :
-
-Envoyez votre clé publique à un correspondant via un e-mail.
+  Envoyez votre clé publique à un correspondant via un e-mail.
 
 5. Échange de messages chiffrés :
 
-Envoyez un message chiffré en utilisant la clé publique du destinataire.
+  Envoyez un message chiffré en utilisant la clé publique du destinataire.
+  Recevez et déchiffrez les messages avec votre clé privée.
 
-Recevez et déchiffrez les messages avec votre clé privée.
 ---
 
 ## 👉 **Fonctionnalités Clés**
@@ -164,7 +162,8 @@ Recevez et déchiffrez les messages avec votre clé privée.
 
 - [Documentation AxCrypt](https://axcrypt.net/information/guides/get-started/)
 
--[Tutoriels Thunderbird](https://support.mozilla.org/fr/products/thunderbird)
+- [Tutoriels Thunderbird](https://support.mozilla.org/fr/products/thunderbird)
+  
 - [Document OpenPGP](https://www.openpgp.org/)
 
 Guide OpenPGP
