@@ -28,7 +28,8 @@ Cet atelier est conçu pour vous aider à développer des compétences dans la s
 
 -**Signer numériquement vos messages pour prouver leur authenticité.**
 
--**Gérer des clés publiques et privées pour des échanges sécurisés.**
+- ** Gérer les clés publiques et privées pour des échanges sécurisés.**
+
 ---
 
 ## 🔗 **Fonctionnalités Principales**
