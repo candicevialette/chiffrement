@@ -50,10 +50,11 @@ Cet atelier est conçu pour vous aider à développer des compétences dans la s
 
 -**Signatures numériques** pour valider l'origine des messages.
 
--**Interopérabilité avec d'autres clients OpenPGP** pour des échanges flexibles.
+-** Interopérabilité avec d'autres clients OpenPGP** pour des échanges flexibles.
+
 ---
 
-📂 Structure du Dépôt
+## 📂 **Structure du Dépôt** 
 ```
 📂 decouverte-packet-tracer/
 |
