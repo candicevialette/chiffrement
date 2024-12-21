@@ -99,11 +99,9 @@ Consultez le dossier Documents/ pour des guides d'analyse détaillés sur l'util
 
 2. Protégez des fichiers en suivant ces étapes :
 
-3. Cliquez sur « Protéger » et sélectionnez un fichier ou un dossier.
-
-4. Entrez un mot de passe sécurisé.
-
-5. Envoyez le fichier chiffré à un destinataire tout en partageant le mot de passe de manière sécurisée.
+   Cliquez sur « Protéger » et sélectionnez un fichier ou un dossier.
+   Entrez un mot de passe sécurisé.
+   Envoyez le fichier chiffré à un destinataire tout en partageant le mot de passe de manière sécurisée.
 
 ### 4. ***Utilisation de Thunderbird avec OpenPGP***
 
